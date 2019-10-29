@@ -1,0 +1,19 @@
+.left{
+    @media (min-width:992px){
+        border-left:15px solid white;
+    } 
+}
+.right{
+    @media (min-width:992px){
+        border-right:15px solid white;
+    }
+}
+.top{
+    border-top:5px solid white;
+}
+.bottom{
+    border-bottom:5px solid white;
+}
+.last{
+    border:4px solid white;
+}
